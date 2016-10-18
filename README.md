@@ -1,6 +1,4 @@
-# w512_rand
-Well512 rand on php
--
+#Well512 rand on php
 - This is `well512_rand algorithm` into php.
 
 # How To Use?
